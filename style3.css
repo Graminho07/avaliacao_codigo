@@ -1,0 +1,23 @@
+body{
+    background-color: #00CED1;
+}
+
+h1{
+    text-align: center;
+    font-family: Bahnschrift SemiBold;
+    font-size: xx-large;
+    background-color: white;
+}
+
+li{
+    font-family: Bahnschrift SemiBold;
+    color: black;
+    font-size: x-large;
+    text-align: center;
+}
+
+p{
+    font-family: Bahnschrift SemiBold;
+    font-size: xx-large;
+    text-align: center;
+}
